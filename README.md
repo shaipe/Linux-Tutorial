@@ -5,8 +5,8 @@ Linux 日志使用整理收集
 ===
 
 - [Centos](#Centos)
-    - [iptables](centos/iptables.md)
-- [Ubuntu](#Ubuntu)
-    - [wget](ubuntu/wget.md)
+- [工具命令]()
+    - [iptables](iptables.md)
+    - [wget](wget.md)
 
 
